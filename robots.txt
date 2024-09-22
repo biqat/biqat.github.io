@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://biqat.github.io/EZQ/sitemap.EZQ.gz
