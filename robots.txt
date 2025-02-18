@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://biqat.csgad.com/JZN/sitemap.xml.gz
